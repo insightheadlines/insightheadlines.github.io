@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/insightheadlinesweb/static/css/main.bd3aaf89.css",
-    "main.js": "/insightheadlinesweb/static/js/main.8f7c0677.js",
+    "main.js": "/insightheadlinesweb/static/js/main.7adfe1ef.js",
+    "static/js/787.9e85af30.chunk.js": "/insightheadlinesweb/static/js/787.9e85af30.chunk.js",
     "index.html": "/insightheadlinesweb/index.html",
     "main.bd3aaf89.css.map": "/insightheadlinesweb/static/css/main.bd3aaf89.css.map",
-    "main.8f7c0677.js.map": "/insightheadlinesweb/static/js/main.8f7c0677.js.map"
+    "main.7adfe1ef.js.map": "/insightheadlinesweb/static/js/main.7adfe1ef.js.map",
+    "787.9e85af30.chunk.js.map": "/insightheadlinesweb/static/js/787.9e85af30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd3aaf89.css",
-    "static/js/main.8f7c0677.js"
+    "static/js/main.7adfe1ef.js"
   ]
 }
