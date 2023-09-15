@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/insightheadlinesweb/static/css/main.bd3aaf89.css",
-    "main.js": "/insightheadlinesweb/static/js/main.0d559d98.js",
+    "main.js": "/insightheadlinesweb/static/js/main.8f7c0677.js",
     "index.html": "/insightheadlinesweb/index.html",
     "main.bd3aaf89.css.map": "/insightheadlinesweb/static/css/main.bd3aaf89.css.map",
-    "main.0d559d98.js.map": "/insightheadlinesweb/static/js/main.0d559d98.js.map"
+    "main.8f7c0677.js.map": "/insightheadlinesweb/static/js/main.8f7c0677.js.map"
   },
   "entrypoints": [
     "static/css/main.bd3aaf89.css",
-    "static/js/main.0d559d98.js"
+    "static/js/main.8f7c0677.js"
   ]
 }
