@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/insightheadlinesweb/static/css/main.bd3aaf89.css",
-    "main.js": "/insightheadlinesweb/static/js/main.938d3901.js",
+    "main.css": "/insightheadlinesweb/static/css/main.0408be5d.css",
+    "main.js": "/insightheadlinesweb/static/js/main.3b903b2f.js",
     "static/js/787.9e85af30.chunk.js": "/insightheadlinesweb/static/js/787.9e85af30.chunk.js",
+    "static/media/mobile.png": "/insightheadlinesweb/static/media/mobile.3cde28a1d7ae442551dc.png",
+    "static/media/playstore.png": "/insightheadlinesweb/static/media/playstore.6c198463294720b29804.png",
+    "static/media/applogo.png": "/insightheadlinesweb/static/media/applogo.8fd07a22c746cdcca511.png",
     "index.html": "/insightheadlinesweb/index.html",
-    "main.bd3aaf89.css.map": "/insightheadlinesweb/static/css/main.bd3aaf89.css.map",
-    "main.938d3901.js.map": "/insightheadlinesweb/static/js/main.938d3901.js.map",
+    "main.0408be5d.css.map": "/insightheadlinesweb/static/css/main.0408be5d.css.map",
+    "main.3b903b2f.js.map": "/insightheadlinesweb/static/js/main.3b903b2f.js.map",
     "787.9e85af30.chunk.js.map": "/insightheadlinesweb/static/js/787.9e85af30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd3aaf89.css",
-    "static/js/main.938d3901.js"
+    "static/css/main.0408be5d.css",
+    "static/js/main.3b903b2f.js"
   ]
 }
